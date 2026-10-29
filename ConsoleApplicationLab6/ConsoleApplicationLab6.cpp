@@ -2,11 +2,11 @@
 
 int main()
 {
-    int x, y, z, n;
+    int x, y, k, n;
     x = 2;
     y = 3;
-    z = x + y;
+    k = x + y;
     n = y - x;
-    std::cout << "z=" << z << "\n";
+    std::cout << "k=" << k << "\n";
     std::cout << "n=" << n;
 }
